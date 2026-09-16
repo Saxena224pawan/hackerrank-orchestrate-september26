@@ -1,0 +1,15 @@
+log.txt
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.cache/
+chat_history/
+chat_transcript.txt
+code/evaluation/run_usage.json
+code/evaluation/sample_results.json
+code/evaluation/diagnostics.json
+code/evaluation/*usage*.json
+output.csv
+code.zip
